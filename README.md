@@ -1,18 +1,20 @@
-## Getting Started
+# Lista04 – Estruturas de Dados em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto consiste na criação de um pequeno sistema utilizando estruturas de dados da linguagem Java, como `TreeSet` e `TreeMap`. O objetivo principal é praticar conceitos de organização, ordenação e manipulação de dados, além da aplicação de classes e objetos.
 
-## Folder Structure
+## ✨ Tecnologias Utilizadas
 
-The workspace contains two folders by default, where:
+- Java
+- TreeSet
+- TreeMap
+- Programação Orientada a Objetos (POO)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📚 Funcionalidades
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Armazenamento de dados de forma ordenada utilizando `TreeSet`.
+- Associação de chaves e valores com `TreeMap`.
+- Implementação de classes com métodos, atributos e construtores.
+- Sobrescrita de métodos como `equals`, `hashCode` e `toString`.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📁 Estrutura do Projeto
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
