@@ -18,3 +18,27 @@ Este projeto consiste na criação de um pequeno sistema utilizando estruturas d
 
 ## 📁 Estrutura do Projeto
 
+Lista04/
+├── .vscode/
+│ └── settings.json
+├── bin/
+│ ├── Livro.class
+│ └── appFeiraLivro.class
+├── src/
+│ ├── Livro.java
+│ └── appFeiraLivro.java
+└── README.md
+
+📄 Descrição das Classes
+Livro.java: Classe que representa um livro com título e autor, implementa Comparable para garantir ordenação.
+
+appFeiraLivro.java: Classe principal com a lógica da aplicação, criação e manipulação de TreeSet e TreeMap.
+
+🎯 Objetivo
+O projeto tem como objetivo exercitar:
+
+O uso correto de coleções ordenadas em Java.
+
+O domínio de estruturas como TreeMap e TreeSet.
+
+A criação de classes bem estruturadas com métodos sobrescritos e encapsulamento.
