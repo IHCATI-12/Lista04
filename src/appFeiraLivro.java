@@ -20,13 +20,9 @@ public class appFeiraLivro {
 
     public static void imprimir(TreeMap<String, TreeSet<Livro>> bib) {
         for (Map.Entry<String, TreeSet<Livro>> autor : bib.entrySet()) {
-
             System.out.println("=======> Autor: " + autor.getKey() + " <=======");
-            
             for (Livro livro : autor.getValue()) {
-            
                 System.out.println(livro);
-            
             }
         }
     }
